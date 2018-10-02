@@ -1,2 +1,2 @@
 # hello-world
-My first go at a project from my CS50 class.
+My first go at a project for my CS50 class.
